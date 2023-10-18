@@ -2,7 +2,7 @@
 Introduction
 Welcome to Free-Form, a PHP & HTML Form Tool with Signature Functionality! This tool allows you to create simple web forms with the ability to collect user signatures and automatically send email responses. This readme will guide you through setting up and using this tool.
 Getting Started
-#Prerequisites
+Prerequisites
 
     A web server with PHP support.
     A web browser.
