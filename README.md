@@ -19,13 +19,12 @@ Installation
 Using the Form Tool
 --------
 
-1.Open the project folder in your web browser.
-You'll find the following files:
+1.Open the project folder in your web browser. You'll find the following files:
 ```
-    index.php: The main form page.
-    process.php: The PHP script for processing form submissions.
-    signature-pad.js: JavaScript for capturing signatures.
-    email.php: Configure email settings for responses.
+index.php: The main form page.
+process.php: The PHP script for processing form submissions.
+signature-pad.js: JavaScript for capturing signatures.
+email.php: Configure email settings for responses.
 ```
 2. Customize the form fields in index.php according to your requirements. You can add, remove, or modify form fields as needed.
 
@@ -43,9 +42,8 @@ To add a signature field, insert the following HTML code where you want the sign
 3. Include the necessary JavaScript files at the end of the <body> section in index.php:
 
 ```html
-
-    <script src="signature-pad.js"></script>
-    <script src="app.js"></script>
+<script src="signature-pad.js"></script>
+<script src="app.js"></script>
 ```
 4. Configure the email settings in email.php. Replace the placeholders with your SMTP server details and email addresses.
 
