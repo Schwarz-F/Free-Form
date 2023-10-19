@@ -59,6 +59,6 @@ License
 This tool is provided under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
 Support
 
-If you encounter any issues or have questions, feel free to reach out to the author at fabian.j.schwarz@gmail.com && mvdavid@outlook.de.
+If you encounter any issues or have questions, feel free to reach out to the author.
 
 Enjoy using the Free Form!
